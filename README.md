@@ -42,7 +42,7 @@ It was difficult for me to accept the data regarding occupation in relation to i
 
 Another good target scenario that I observed was when I associated the driver's "destination" and "outside temperature".  It was noted that as temperatures went up and the driver had no real urgency to go anywhere, the bar seemed to be the place of choice.  Similarly it was seen that when the temperature was not too hot and not too cold (55 deg), regardless of urgency, drivers tended to accept the bar coupon more often then not.  I was able to observe this from the folling bar chart.
 
-![image](images/bar-coupon-all_ages-parental_status.png)
+![image](images/temp_and_travel_waccepted_bar_coupons.png)
 
 
 After seeing the effect of temperature I decided to compare that with age.  Here it was observed the driver's between the ages of 21 and 30 accepted bar coupons the most over any other relation.  This was proven in the last three diagrams were age was not categorized at first.  Then it was catagorized with a single temperature of 55 degrees and finally with all three temperatures.  It appeared that activity when the temperature was 55 degrees and when the driver was between the age of 21 and 30 was higher than any of the previous comparisons.  However, given the nature of the data I was unable to determine any correlation between the two.

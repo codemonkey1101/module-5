@@ -44,6 +44,8 @@ Another good target scenario that I observed was when I associated the driver's 
 ![image](images/temp_and_travel_waccepted_bar_coupons.png)
 
 
+## Hypothesis
+
 After seeing the effect of temperature I decided to compare that with age.  Here it was observed the driver's between the ages of 21 and 30 accepted bar coupons the most over any other relation.  However, this same behavior was exibited during moderate temperatures as show in the following diagram.
 
 ![image](images/bar-coupon-all_ages-by_temp.png)

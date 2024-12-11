@@ -1,15 +1,18 @@
 # module-5
-Diagnosing Usage of Bar Coupons by a Driver Who has received the coupon via their Phone
+### Diagnosing Usage of Bar Coupons by a Driver Who has received the coupon via their Phone
 
-Bases on the observations my findings were as follows:
+## Observations:
 
-Only 785 drivers used the bar coupons out of 1906 who received them.  
-Out of the 785 drivers The demographics that accepted the bar coupons the most were as follows:
+Only 785 drivers used the bar coupons out of 1906 who received them.
+# Out of the 785 drivers the demographics were observed
 Income: 
-$25000 - $37499     136
-$100000 or More     134
-$12500 - $24999     114
-$50000 - $62499     101
+- $25000 - $37499     136
+- $100000 or More     134
+- $12500 - $24999     114
+- $50000 - $62499     101
+
+![image](https://github.com/codemonkey1101/module-5/blob/main/images/income_accepted_bar_coupons.png)
+
 
 Occupation:
 Student                                      114

@@ -11,7 +11,7 @@ Income:
 - $12500 - $24999     114
 - $50000 - $62499     101
 
-![image](../images/income_accepted_bar_coupons.png)
+![image](images/income_accepted_bar_coupons.png)
 
 
 Occupation:
@@ -20,9 +20,13 @@ Unemployed                                    87
 Computer & Mathematical                       79
 Sales & Related                               78
 
-Drivers with kids
+There seemed to be a strong acceptant when looking at drivers in specific age groups that were non-parents vs parents
+Parental status (has_children)
 Parents       241
 non parents   544 
+
+![image](images/bar-coupon-all_ages-parental_status.png)
+
 
 Age was another data data point where driver's between the ages 35 and 21 seemed to accept coupons more often then not.
 Total bar coupons accepted when associated with a driver's age

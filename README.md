@@ -11,7 +11,7 @@ Income:
 - $12500 - $24999     114
 - $50000 - $62499     101
 
-![alt text](https://github.com/codemonkey1101/module-5/blob/main/image.jpg?raw=true)
+![image](https://github.com/codemonkey1101/module-5/blob/main/images/income_accepted_bar_coupons.png)
 
 
 Occupation:

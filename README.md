@@ -5,7 +5,7 @@
 
 Only 785 drivers used the bar coupons out of 1906 who received them.
 # Out of the 785 drivers the demographics were observed
-Income: 
+Top 4 Income: 
 - $25000 - $37499     136
 - $100000 or More     134
 - $12500 - $24999     114
@@ -14,7 +14,7 @@ Income:
 ![image](images/income_accepted_bar_coupons.png)
 
 
-Occupation:
+Top 4 Occupation:
 Student                                      114
 Unemployed                                    87
 Computer & Mathematical                       79
@@ -30,7 +30,7 @@ non parents   544
 
 Age was another data data point where driver's between the ages 35 and 21 seemed to accept coupons more often then not.
 Total bar coupons accepted when associated with a driver's age
-Age:
+Top 4 Age groups:
 21-25    200
 26-30    179
 31-35    121

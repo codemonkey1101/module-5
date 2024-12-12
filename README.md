@@ -23,6 +23,7 @@ Top 4 Occupation:
 It was difficult for me to accept the data regarding occupation in relation to income being that there were students and unemployed drivers shown as making $100,000 which didn't make any sense.  I could have filtered out those data points and used some of the student data but being that most students are potentially under the age of 21 I would think a retail business like a bar, which has age restrictions, would want to remove that demographic any way for legal reasons.  Furthermore, with regards to age people >=21 and < 36 did the bulk of the accepting anyway so not being able to use the "Student" demographic was really a non-issue.
 
 There seemed to be a strong acceptant when looking at drivers in specific age groups that were non-parents vs parents
+
 Parental status (has_children)
 - Parents       241
 - non parents   544 
@@ -30,7 +31,7 @@ Parental status (has_children)
 ![image](images/bar-coupon-all_ages-parental_status.png)
 
 
-With that observation age was another data point where driver's between the ages 35 and 21 seemed to accept coupons more often then not.  Especially when they did not have parental responsibilities
+With that observation, age was another data point where driver's between the ages of 21 and 35 seemed to accept coupons more often then not.  Especially when they did not have parental responsibilities
 
 Total bar coupons accepted when associated with a driver's age
 

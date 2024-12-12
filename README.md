@@ -4,7 +4,7 @@
 ## Observations:
 
 Only 785 drivers used the bar coupons out of 1906 who received them.
-# Out of the 785 drivers the demographics were observed
+# Out of the 785 drivers the following propogations were examined
 Top 4 Income: 
 - $25000 - $37499     136
 - $100000 or More     134

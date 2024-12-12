@@ -55,13 +55,13 @@ This would suggest a possible correlation between the two.  So, when the tempera
 
 #### Independent Investigation
 
-### Using the cheap restaurant ($ < 20>) coupon I attempted to determin how passangers and drivers influence each other with regards to accepting this type of coupon.
+### Using the cheap restaurant ($ < 20) coupon I attempted to determin how passangers and drivers influence each other with regards to accepting this type of coupon.
 
 ## Observations:
 
 The total number of accepted coupons of this type was 1878.
 
-Total restaurant<20 coupons accepted when propogated by:
+The examined propoated data for restaurant<20 coupons was as follows:
 
 Age:
 - 21-25    403
@@ -87,13 +87,13 @@ Parents (1) vs Non-parents (0):
 - 0    1128  ( 60.06% )
 - 1     750  ( 39.94% )
 
-When comparing parents vs non-parents, the parents accepted these types of coupons on ~40% of the time vs ~60% by non-parents (as shown in the following bar chart).
+When comparing parents vs non-parents, the parents accepted these types of coupons ~40% of the time vs ~60% by non-parents (as shown in the following bar chart).
 
 ![image](images/accepted_rest_less20_coupons_for_parents_and_non_parents_by_age.png)
 
 For that reason I focused mainly on the non-parents in this effort.
 
-It was observed that younger men, between the age of 21 and 30, tended to accept the coupons regardless if they were alone or with an adult passanger.  However, women within that same age group perferred to eat out with an adult companion (or passanger that was not a child).
+It was observed that younger men, between the age of 21 and 30, tended to accept the coupons far more often then their older counter parts, regardless if they were alone or with an adult passanger.  However, women within that same age group perferred to eat out with an adult companion (or passanger that was not a child).
 
 ![image](images/accepted_rest_less20_coupons_for_pass_w_non_parents_by_age.png)
 

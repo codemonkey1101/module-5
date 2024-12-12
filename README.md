@@ -97,4 +97,4 @@ It was observed that younger men, between the age of 21 and 30, tended to accept
 
 ![image](images/accepted_rest_less20_coupons_for_pass_w_non_parents_by_age.png)
 
-Furthermore, it was observed that as both men and women got older they accepted these coupons far less.  This observation was very similar to the one done with bar coupons.
+Furthermore, it was observed that as both men and women got older they accepted these coupons far less.  This observation was very similar to the one done with bar coupons and again would suggest a correlation between the two.

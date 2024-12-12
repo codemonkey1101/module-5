@@ -46,8 +46,55 @@ Another good target scenario that I observed was when I associated the driver's 
 
 ## Hypothesis
 
-After seeing the effect of temperature I decided to compare that with age.  Here it was observed the driver's between the ages of 21 and 30 accepted bar coupons the most over any other relation.  However, this same behavior was exibited during moderate temperatures as show in the following diagram.
+After seeing the effect of temperature I decided to compare that with age.  Here it was observed the driver's between the ages of 21 and 30 accepted bar coupons the most over any other relation.  However, this same behavior was exibited during moderate temperatures as shown in the following diagram.
 
 ![image](images/bar-coupon-all_ages-by_temp.png)
 
-This would suggest a possible correlation between the two where when temperatures were 55 degrees similar behavior could be expected when dealing with specific age groups when drivers were not parents.  Unfortunately, given the nature of the dataset I was not able to prove any correlation actually existed.
+This would suggest a possible correlation between the two.  So, when the temperature is 55 degrees similar behavior could be expected when dealing with specific age groups when drivers were not parents.  Unfortunately, given the nature of the dataset I was not able to prove any correlation actually existed.
+
+
+#### Independent Investigation
+
+### Using the cheap restaurant ($ < 20>) coupon I attempted to determin how passangers and drivers influence each other with regards to accepting this type of coupon.
+
+## Observations:
+
+The total number of accepted coupons of this type was 1878.
+
+Total restaurant<20 coupons accepted when propogated by:
+
+Age:
+- 21-25    403
+- 26-30    388
+- 31-35    294
+- > 50     243
+- 36-40    182
+- 41-45    174
+- 46-50    107
+- < 21      87
+
+Passanger:
+- Alone        1365
+- Friend(s)     789
+- Kid(s)        249
+- Partner       243
+
+Gender:
+- Female    940
+- Male      938
+
+Parents (1) vs Non-parents (0):
+- 0    1128  ( 60.06% )
+- 1     750  ( 39.94% )
+
+When comparing parents vs non-parents, the parents accepted these types of coupons on ~40% of the time vs ~60% by non-parents (as shown in the following bar chart).
+
+![image](images/accepted_rest_less20_coupons_for_parents_and_non_parents_by_age.png)
+
+For that reason I focused mainly on the non-parents in this effort.
+
+It was observed that younger men, between the age of 21 and 30, tended to accept the coupons regardless if they were alone or with an adult passanger.  However, women within that same age group perferred to eat out with an adult companion (or passanger that was not a child).
+
+![image](images/accepted_rest_less20_coupons_for_pass_w_non_parents_by_age.png)
+
+Furthermore, it was observed that as both men and women got older they accepted these coupons far less.  This observation was very similar to the one done with bar coupons.

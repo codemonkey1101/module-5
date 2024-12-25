@@ -1,4 +1,5 @@
-# module-5
+# Module 5: Using what was learned in the first 4 modules
+
 ### Diagnosing Usage of Bar Coupons by a Driver Who has received the coupon via their Phone
 
 ## Observations:
